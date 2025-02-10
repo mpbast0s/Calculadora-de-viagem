@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "calculadora-viagens-ps-mpbast0s",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+
+
